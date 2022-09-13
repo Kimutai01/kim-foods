@@ -1,9 +1,9 @@
 import React from "react";
-import logos from "../images/logo2.png";
+import logos from "../images/logo3.png";
 
 import { FaWhatsapp } from "react-icons/fa";
 import { FiPhoneCall } from "react-icons/fi";
-import { AiOutlineInstagram  , AiOutlineTwitter} from "react-icons/ai";
+import { AiOutlineInstagram, AiOutlineTwitter } from "react-icons/ai";
 import { HiOutlineMailOpen } from "react-icons/hi";
 function Footer() {
   return (
@@ -18,39 +18,39 @@ function Footer() {
         <a href="#forests-cakes-div">Forest Cakes</a>
       </div>
       <div className="social-media-icons">
-        <a rel="noopener noreferrer" href="tel:0740769596">
-          <FiPhoneCall /> 0740769596{" "}
+        <a rel="noopener noreferrer" href="tel:0790841979">
+          <FiPhoneCall /> 0790841979{" "}
         </a>
 
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://twitter.com/MichaelTrance1"
+          href="https://twitter.com/Kimutai_01"
         >
-          <AiOutlineTwitter /> MichaelTrance1{" "}
+          <AiOutlineTwitter /> Kimutai_01{" "}
         </a>
 
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://instagram.com/trance.07?igshid=YmMyMTA2M2Y="
+          href="https://instagram.com/k.i.m.u.t.a.i?igshid=YmMyMTA2M2Y="
         >
-          <AiOutlineInstagram /> trance.07{" "}
+          <AiOutlineInstagram /> k.i.m.u.t.a.i{" "}
         </a>
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="mailto: michaelmunavu83@gmail.com"
+          href="mailto: kiprotichkimutai01@gmail.com"
         >
-          <HiOutlineMailOpen /> michaelmunavu83@gmail.com
+          <HiOutlineMailOpen /> kiprotichkimutai01@gmail.com
         </a>
-        
+
         <a
           target="_blank"
           rel="noopener noreferrer"
           href="https://wa.me/254796230862 "
         >
-          <FaWhatsapp /> 0740769596
+          <FaWhatsapp /> 0790841979
         </a>
       </div>
     </footer>
